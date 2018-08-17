@@ -1,0 +1,69 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+#btn{
+    margin-right: 90px;
+    display: inline;
+    }
+div button{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    padding-right: 40px;
+    background: blue;
+}
+#back{
+    background: darkred;
+}
+div ul li{
+    list-style-type: none;
+    display: block;
+    padding: 15px;
+      
+}
+div button:hover{
+    background: lightblue;
+    transition: linear all 0.20s;
+    margin-left: 10px;
+    font-weight: bolder;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+    color:black;
+}
+form{
+    text-align: center;
+    font-weight: bold; 
+    font-size:16px;
+    color:black;
+    display: block;
+    margin-top: 10px;
+    margin-left: 350px;
+    width: 30%;
+    height: 86%;
+    border: 5px solid;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-origin: content-box;
+    resize: none;
+}
+
+#camera {
+    display: block;
+    width: 100px;
+    height: 150px;
+}
+
+#image >img{
+    
+    margin-right: 420px;
+    width: 100%;
+    height: 75px;
+    background-repeat: no-repeat;
+    background-origin: content-box;
+    
+}
+
