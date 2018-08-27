@@ -10,7 +10,7 @@ used PHP, MySQL, JavaSc, CSS, HTML to create the project.
 Download and install XAMPP (https://www.apachefriends.org/index.html).
 
 
-Download the project folder in (C:\xampp\htdocs).
+Clone or Download the project folder in (C:\xampp\htdocs).
 
 
 
