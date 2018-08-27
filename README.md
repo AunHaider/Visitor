@@ -5,7 +5,7 @@
 Download and install XAMPP (https://www.apachefriends.org/index.html).
 
 
-Download the project in (C:\xampp\htdocs).
+Download the project folder in (C:\xampp\htdocs).
 
 
 
