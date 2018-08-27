@@ -14,4 +14,4 @@ Clone or Download the project folder in (C:\xampp\htdocs).
 
 
 
-Write (localhost/phpfilename) in browser address bar to Run.
+Write (localhost/visitor-form) in browser address bar to Run.
